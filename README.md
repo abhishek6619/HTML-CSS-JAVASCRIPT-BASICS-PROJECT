@@ -44,6 +44,17 @@ A basic portfolio website built using HTML, CSS, and JavaScript. It includes sec
 - Smooth scrolling and animations
 - Contact form with validation
 
+### 5. Contact Form Project
+
+A simple yet functional contact form using HTML, CSS, and JavaScript. The form allows users to enter their details and send a message.
+
+**Features:**
+
+- Input validation for required fields
+- Success and error message alerts
+- Stylish and responsive design
+- Option to integrate with backend for email sending
+
 ## Technologies Used
 
 - HTML
